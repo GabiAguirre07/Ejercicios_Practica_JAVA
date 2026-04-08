@@ -1,0 +1,12 @@
+# Ignorar binarios compilados
+/bin/
+
+# Ignorar configuraciones de Eclipse
+/.settings/
+.classpath
+.project
+
+# Ignorar archivos temporales
+*.log
+*.tmp
+
